@@ -4,4 +4,3 @@
 *.png
 !/wp-content/theme/mytheme
 /wp-content/theme/mytheme/img
-!/wp-admin/etc
