@@ -14,6 +14,10 @@ class User {
 		$this->email = $obj->email;
 	}
 
+	public function getUserId(){
+		return $this->id;
+	}
+
 }
 
 
