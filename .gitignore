@@ -1,4 +1,6 @@
+
 *.log
 *.jpg
 *.png
-/img
+!/wp-content/theme/mytheme
+/wp-content/theme/mytheme/img
